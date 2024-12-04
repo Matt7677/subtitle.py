@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, Nome da Faixa ou Canal
+http://url_do_stream_de_video_ou_audio
+#EXTINF:-1, Outro Canal ou Faixa
+http://outro_url_do_stream
